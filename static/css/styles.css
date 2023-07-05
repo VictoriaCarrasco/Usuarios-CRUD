@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.filas{
+    margin: 10px;
+}
+
+button{
+    margin: 20px;
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: burlywood;
+}
+
